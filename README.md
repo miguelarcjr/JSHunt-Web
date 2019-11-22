@@ -38,9 +38,8 @@ npm run test
 
 ## Author
 
-👤 **Miguel Junior **
+👤 **Miguel Junior**
 
-* Website: Miguel Junior
 * Twitter: [@miguelarcjr](https://twitter.com/miguelarcjr)
 * Github: [@miguelarcjr](https://github.com/miguelarcjr)
 
